@@ -1,12 +1,7 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-<<<<<<< HEAD
   background: #4c874e;
-=======
-  background: #491048;
-
->>>>>>> feature/background
 
   display: flex;
   justify-content: center;
