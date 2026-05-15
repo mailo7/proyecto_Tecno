@@ -11,15 +11,15 @@ body {
 }
 
 .container {
-  background: white;
+  background: rgb(67, 105, 170);
   padding: 30px;
   border-radius: 10px;
   text-align: center;
 }
 
 button {
-  background: #6c63ff;
-  color: white;
+  background: #ffffff;
+  color: rgb(67, 5, 125);
   border: none;
   padding: 10px 20px;
 }
